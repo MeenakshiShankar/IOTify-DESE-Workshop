@@ -26,19 +26,8 @@ This repository contains ReadMe and Code Files for the Project IOTify DESE Works
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#Procedure Overview">Usage</a></li>
+    <li><a href="#Contributions">Contributing</a></li>
   </ol>
 </details>
 
@@ -56,9 +45,9 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [MQTT]()
+* [Nordic Development Board - NRF52840]()
+* [Sensors - Hall Sensor,MPU6050,Nicla Voice]()
 
 
 
