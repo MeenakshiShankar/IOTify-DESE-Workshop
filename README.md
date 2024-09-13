@@ -8,23 +8,6 @@ This repository contains ReadMe and Code Files for the Project IOTify DESE Works
 <br />
 
   <h3 align="center">IOTify-DESE-Workshop</h3>
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#Procedure Overview">Usage</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
