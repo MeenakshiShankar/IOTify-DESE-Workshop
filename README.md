@@ -28,7 +28,9 @@ This repository contains ReadMe and Code Files for the Project IOTify DESE Works
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-    IOTify DESE workshop Project aims to be able to establish a prototype for monitoring industrial equipments by collecting sensor data, analysing it and transfer the data to a user interpretable dashboard.
+    IOTify DESE workshop Project aims to be able to establish a prototype for monitoring
+    industrial equipments by collecting sensor data, analysing it and transfer the data to 
+    a user interpretable dashboard.
 
 
 ### Built With
@@ -38,7 +40,7 @@ This repository contains ReadMe and Code Files for the Project IOTify DESE Works
 * [Sensors - Hall Sensor,MPU6050,Nicla Voice]
 
 
-<!-- ROADMAP -->
+<!-- Procedure -->
 ## Procedural Overview
 
 1. FFT of Vibrational Data to recognize motor Fault:
@@ -55,8 +57,7 @@ This repository contains ReadMe and Code Files for the Project IOTify DESE Works
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Basati Sivakrishna ]()
-* [Professor : T V Prabhakar ]()
-* []()
+* [Basati Sivakrishna ]
+* [Professor : T V Prabhakar ]
 
 
