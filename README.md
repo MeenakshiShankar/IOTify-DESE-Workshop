@@ -4,7 +4,7 @@ This repository contains ReadMe and Code Files for the Project IOTify DESE Works
 
   <h3 align="center">IOTify-DESE-Workshop</h3>
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### About The Project
 
     IOTify DESE workshop Project aims to be able to establish a prototype for monitoring
     industrial equipments by collecting sensor data, analysing it and transfer the data to 
@@ -35,7 +35,7 @@ This repository contains ReadMe and Code Files for the Project IOTify DESE Works
    rotary action hence causing all current to get dissipated as heat burning the rotor windings.
    <br/>
 
-4.All the analysed data are transferred over to a custom Dashboard using MQTT that can indicate different fault scenarios.
+4. All the analysed data are transferred over to a custom Dashboard using MQTT that can indicate different fault scenarios.
 
 
 <!-- ACKNOWLEDGEMENTS -->
