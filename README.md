@@ -3,9 +3,6 @@ This repository contains ReadMe and Code Files for the Project IOTify DESE Works
 
 
   <h3 align="center">IOTify-DESE-Workshop</h3>
-<!-- ABOUT THE PROJECT -->
-### About The Project
-
     IOTify DESE workshop Project aims to be able to establish a prototype for monitoring
     industrial equipments by collecting sensor data, analysing it and transfer the data to 
     a user interpretable dashboard.
